@@ -45,7 +45,6 @@ Frequency of Purchases – Purchase frequency (e.g., Weekly, Monthly)
 ├── images/
 └── README.md
 
-
 📊 Dashboard Highlights
 The Power BI dashboard provides key insights such as:
 
