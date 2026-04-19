@@ -1,6 +1,6 @@
 📊 Data Analysis Portfolio – Customer Behaviour Analysis
-🔍 Project Overview
 
+🔍 Project Overview
 This project focuses on analyzing customer purchasing behavior to uncover insights that can help businesses improve decision-making, marketing strategies, and customer experience.
 
 Using Python, SQL, and Power BI, the project explores patterns in customer demographics, spending habits, product preferences, and purchasing trends.
