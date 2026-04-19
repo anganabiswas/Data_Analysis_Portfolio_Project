@@ -69,6 +69,7 @@ Age group-based revenue segmentation
 
 This project demonstrates how data analysis can transform raw customer data into meaningful insights. It highlights key business drivers and provides a strong foundation for data-driven decision-making.
 
+## 📊 Dashboard Preview
 <img width="1323" height="723" alt="Screenshot 2026-04-19 125920" src="https://github.com/user-attachments/assets/2de31a0e-bea3-44ae-8adc-1e2ea3a0c3cd" />
 
 <img width="1311" height="723" alt="Screenshot 2026-04-19 125945" src="https://github.com/user-attachments/assets/340fb7ce-8a12-48e0-b949-d74130336f6e" />
